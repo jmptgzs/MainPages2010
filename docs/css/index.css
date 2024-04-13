@@ -1,0 +1,196 @@
+body{font-size:12px;color:#4F4F4F;font-family:Arial, Helvetica, sans-serif,"songti",Verdana;}
+h7 { display:none;}
+
+/* link */
+a{font-size:12px;color:#4F4F4F;}
+a:hover{color:#D82C2C;}
+
+/* Header */
+/* #top{width:986px;height:19px;margin:0 auto;padding-right:16px;background:url("images/topBg.gif") center center no-repeat;} */
+#top{width:986px;height:19px;margin:0 auto;padding-right:16px;background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/5b0a5c33ea12a30867da6658acb19b67_6312896474232041225.gif") center center no-repeat;}
+#top p{width:160px;height:19px;float:right;background:#8A8987;color:#D7CFCD;text-align:center;line-height:19px;}
+#header{width:1002px;height:55px;margin:0 auto;}
+#header .logo{width:289px;height:55px;float:left;}
+/* #header .meun{width:713px;height:55px;float:left ;position:relative;background:url("images/menu.gif")  no-repeat;} */
+#header .meun{width:713px;height:55px;float:left ;position:relative;background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/806cdacd2d2c63f01b2acd4822142a1e_4632579413262308889.gif")  no-repeat;}
+#header .meun img{width:713px;height:55px;border:0px;}
+
+/* Footer */
+.footer  {
+	width:1002px;
+	margin:0 auto;
+}
+.footer .backgu{
+	float:left;
+	width:100%;
+	/* height:110px; */
+	background-color: #DDDDD7;
+	/* background-image: url("images/gzs_foot.gif"); */
+	background-image: url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/f79f92f5e76f1c2c8d3a9dc73f582487_781995911259035922.gif");
+	background-repeat: no-repeat;
+}
+.footer .backgu p{background:none;}
+.footer .backgu p.fontLink{text-align:center;color:#EEEEEE;line-height:1.8em;}
+.footer .backgu p.fontLink a{color:#EEEEEE;padding-left:10px;padding-right:10px;}
+.footer .backgu p.fontLink a:hover{color:#CCCCCC;}
+.footer .backgu p.copyright{margin-top:10px; margin-left:31px;}
+
+
+/* index.html */
+
+#main{width:1002px;margin:0 auto;}
+#mainLeft{width:609px;float:left;overflow:hidden;}
+#mainLeft .flash{width:609px;height:419px;float:left;}
+/* #mainLeft .aboutgzs{width:609px;height:67px;float:left;background:url("images/aboutgzs.gif") left top no-repeat;} */
+#mainLeft .aboutgzs{width:609px;height:67px;float:left;background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/8dc3891a14da739d7823189167a0be89_199269703884467486.gif") left top no-repeat;}
+/* #mainLeft .aboutgzs_1{width:609px;height:86px;float:left;background:url("images/aboutgzs_1.gif") left top no-repeat;} */
+#mainLeft .aboutgzs_1{width:609px;height:86px;float:left;background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/9f803b49c5f2fd50824d6699c686e253_3411792024639386843.gif") left top no-repeat;}
+/* #mainLeft .aboutgzs_2{width:579px;height:167px;float:left;padding-left:30px;background:url("images/aboutgzs_2.gif") left top no-repeat;line-height:20px;} */
+#mainLeft .aboutgzs_2{width:579px;height:167px;float:left;padding-left:30px;background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/824f912403dcb5c2851d6e019c7baf97_5876859239956644218.gif") left top no-repeat;line-height:20px;}
+/* #mainLeft .aboutwh{width:609px;height:67px;float:left; background:url("images/tdjs.gif");} */
+#mainLeft .aboutwh{width:609px;height:67px;float:left; background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/6b76645c8341e8fc2dab77373d5136ab_6452675278373071108.gif");}
+/* #mainLeft .aboutwh_1{width:609px;height:86px;float:left;background:url("images/aboutgzs_5.gif") left top no-repeat;} */
+#mainLeft .aboutwh_1{width:609px;height:86px;float:left;background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/de90c4f30bc5ade316ee1c5ac23f5c86_5134175384855524312.gif") left top no-repeat;}
+/* #mainLeft .aboutwh_2{width:579px;height:130px;float:left;padding-left:30px;background:url("images/aboutgzs_2.gif") left top no-repeat;line-height:20px;} */
+#mainLeft .aboutwh_2{width:579px;height:130px;float:left;padding-left:30px;background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/824f912403dcb5c2851d6e019c7baf97_7073107738749289397.gif") left top no-repeat;line-height:20px;}
+
+#mainRight{width:393px;float:right;overflow:hidden;}
+#mainRight .flashJng{width:393px;height:327px;float:left;}
+/* #mainRight .newsgzs{width:393px;height:412px;float:left;background:url("images/gzs_bg1.gif") left top no-repeat;} */
+#mainRight .newsgzs{width:393px;height:412px;float:left;background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/c1b13ea88a0acda04a6fc1a50cfe4ccd_9155244221129216890.gif") left top no-repeat;}
+#mainRight .newsgzs .falshR{width:343px;height:171px;float:right;padding-right:27px;}
+/* #mainRight .newsgzs .news_gzs{width:365px;float:left;padding-top:15px;background:url("images/gzsNews1.gif") left 4px no-repeat;} */
+#mainRight .newsgzs .news_gzs{width:365px;float:left;padding-top:15px;background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/506b414fb728e32824732149146b7016_7667601482738364321.gif") left 4px no-repeat;}
+/* tab */
+#mainRight .newsgzs .news_gzs #tab{ float:left;padding:0px;}
+#mainRight .newsgzs .news_gzs  #tab .menuBox{width:210px;float:left;margin:0 0 5px 150px !important;margin:0 0 5px 75px;}
+#mainRight .newsgzs .news_gzs  #tab .menuBox ul{margin:0px;padding:0px;}
+#mainRight .newsgzs .news_gzs  #tab .menuBox li{width:65px;height:18px;float:left;margin-right:3px;display:block;cursor:pointer;text-align:center;color:#8F8F8F;border:1px solid #C8C7C4;line-height:18px;}
+#mainRight .newsgzs .news_gzs  #tab .menuBox li.hover{width:65px;height:20px;border-left:1px solid #D82C2C;border-top:3px solid #D82C2C;border-right:1px solid #D82C2C;border-bottom:0px;background:#F4F5F2;font-weight:bold;line-height:20px;color:#D82C2C;font-size:12px;background-color:#d82c2c;}
+#mainRight .newsgzs .news_gzs  #tab .menuBox li.hover a{color:#ffffff;}
+#mainRight .newsgzs .news_gzs  #tab .contentBox{clear:both;margin-top:0px;text-align:left;padding-top:8px;}
+
+#mainRight .newsgzs .mNew{width:370px;height:170px;padding-left:20px;}
+/* #mainRight .newsgzs .mNewPic{width:73px;height:120px;float:left;padding-top:10px;background:url("images/pic.gif") 0px 8px no-repeat;padding-right: 12px;} */
+#mainRight .newsgzs .mNewPic{width:73px;height:120px;float:left;padding-top:10px;background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/f3f9055bdfc65c665fd34d921a139b91_590936100971617585.gif") 0px 8px no-repeat;padding-right: 12px;}
+#mainRight .newsgzs .mNewPic img{width:73px;height:93px;border:0px;margin-left:4px;}
+#mainRight .newsgzs .mNew li{float:left;width:220px;height:16px;padding:4px 0 0 2px;color:#AA9370;}
+#mainRight .newsgzs .mNew li a{color:#4F4F4F;}
+#mainRight .newsgzs .mNew li a:hover{color:#AA9370;text-decoration:underline;}
+
+#mainRight .newsgzs .news_gzs2{width:365px; height:150px;float:left;padding-top:5px; background-color:#999999;}
+
+ 
+.newtitle {width: 1002px; margin:0px auto;line-height: 24px; background-color:#e8e9e4;overflow:hidden; }
+
+/* .lujing {height: 25px;margin-top: 20px;text-decoration: none;text-indent: 30px;border: 1px dotted #666666;color:#736532;background:url("images/hexian.gif") 0px 0px  repeat-x;} */
+.lujing {height: 25px;margin-top: 20px;text-decoration: none;text-indent: 30px;border: 1px dotted #666666;color:#736532;background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/52b62d59593e65ff3aa87086a019c068_370239898547026065.gif") 0px 0px  repeat-x;}
+.newtitle .title .titleBT {text-align: center; padding: 10px; font-size: 16px;font-weight: normal;}
+.newtitle .title .title_jilu {text-align:center;  margin-top:10px;}
+.newtitle .title .titleall {padding: 80px;  overflow: hidden; }
+.newtitle .title .titleall p { font-size: 14px; text-indent: 20px;}
+
+
+
+#nav { line-height: 24px; list-style-type: none; background:#666; margin-left:50px; margin-top:15px;}
+#nav a {display: block;width: 80px;text-align:center;}
+#nav a:link  {  color:#666; }
+#nav a:visited  { color:#666;}
+#nav a:hover  { color:#FFF; font-weight:bold;}
+#nav li {float: left; width: 80px; background:#CCC; display:inline;}
+#nav li a:hover{background:#999;}
+/* ·��ѡ����ʽ */
+#nav li .router-link-exact-active{background:#999;color:#FFF !important;font-weight:bold;}
+
+
+.top_ad{ width:1000px; height:0px; margin:0px auto; overflow:hidden;}
+.top_adnew,.top_adcult,.top_adbm,.top_adtc,.top_school{ width:1002px; height:199px; margin:0px auto; }
+.top_adnew span,.top_adcult span,.top_adbm span,.top_adtc span, .top_school span{ display:none;}
+/* .top_adnew{background-image:url("images/newce.gif"); background-repeat:no-repeat;}
+.top_adcult{background-image:url("images/zzwh.gif"); background-repeat:no-repeat;}
+.top_adbm{background-image:url("images/bmzn.gif"); background-repeat:no-repeat;}
+.top_adtc{background-image:url("images/bmzn.gif"); background-repeat:no-repeat;}
+.top_school{background-image:url("images/xyxx.gif"); background-repeat:no-repeat;} */
+.top_adnew{background-image:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/5e913088b1796401a2a5fdd1ce43685b_5063026050122282774.gif"); background-repeat:no-repeat;}
+.top_adcult{background-image:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/31b80454460306b0dbc024effb5930a3_7543015939597596708.gif"); background-repeat:no-repeat;}
+.top_adbm{background-image:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/f3ceb8d07847bc97b67330411aba79c3_1713319849570135247.gif"); background-repeat:no-repeat;}
+.top_adtc{background-image:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/f3ceb8d07847bc97b67330411aba79c3_5984069718397532903.gif"); background-repeat:no-repeat;}
+.top_school{background-image:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/1d37ec18c6012d17135028a5e948004e_7028467841278752867.gif"); background-repeat:no-repeat;}
+.ad{ width:1000px; height:100px; margin:0px auto;}
+
+
+
+/* .Abanner {width:1002px; height:300px; margin:0px auto; background:url("images/about.gif") no-repeat; } */
+.Abanner {width:1002px; height:300px; margin:0px auto; background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/71a274aa3d0521555a267611ec9c0cbe_6856177478469660000.gif") no-repeat; }
+/* .Fbanner {width:1002px; height:300px; margin:0px auto; background:url("images/aboutF.gif") no-repeat;} */
+.Fbanner {width:1002px; height:300px; margin:0px auto; background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/13548295d03b4043f5190329adfeb73e_1523277304388003220.gif") no-repeat;}
+.Abanner span{ display:none;}
+.Fbanner span{ display:none;}
+
+/* .Acenter { width:1002px; height:100%; margin:0 auto; background:url("images/abg.gif") repeat; overflow:auto;} */
+.Acenter { width:1002px; height:100%; margin:0 auto; background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/fd6f647ae4e0de2deff8fa60208fc13e_5846458650802589305.gif") repeat; overflow:auto;}
+.Acenter .left { width:200px; height:100%; overflow:hidden; float:left; display:inline;  background:#D1D1D1;}
+.Acenter .right { width:802px; height:100%; overflow:hidden; margin-left: 200px;}
+.Acenter .right .wrapper {padding: 20px;}
+
+
+#Amennu { line-height:24px; margin-left:20px; margin-top:15px; font-size:14px;}
+#Amennu a { display:block; width:150px; vertical-align:middle; padding-left:30px;border-left:solid 8px #b6a59b;  padding-bottom:5px;}
+#Amennu a:link,#Amenu a:visited { }
+#Amennu a:hover { background:#b6a59b; color:#FFFFFF; border-left:solid 8px #696969; }
+#Amennu li { float:left;  display:inline; margin-top:5px;}
+#Amennu .Alink { background:#b6a59b; color:#FFFFFF; border-left:solid 8px #696969;  }
+
+.Acenter .right .title { width:400px; height:30px;  /* float:left; display:inline; */  font-size:18px; font-weight:900;}
+.Acenter .right .actcl { margin-top:10px;}
+.Acenter .right .actcl h1 {}
+.Acenter .right .actcl p { line-height:35px;}
+
+
+
+ 
+.Fun p{ margin:20px; }
+/* .Fun{ width:1003px;background:url("images/abg.gif") repeat; margin:0 auto; overflow:hidden;} */
+.Fun{ width:1003px;background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/fd6f647ae4e0de2deff8fa60208fc13e_5651549426069856892.gif") repeat; margin:0 auto; overflow:hidden;}
+.Fun #windows{ margin:20px;}
+.Fun dt{ display:none;}
+.Fun dl{width:854px; height:755px; border-top:1px solid #999900; border-left:1px solid #999900;}
+.Fun dd{ border-right: 1px solid #999900; border-bottom: 1px solid #999900;line-height:25px; text-align:center; vertical-align:middle; float:left; display:inline}
+.Fun .Fleft{ width:150px; height:150px;}
+.Fun .Fright{ width:700px; height:150px; }
+
+/*  
+.Fun #rjb{ background:url("images/rjb.gif") no-repeat; }
+.Fun #yxb{ background:url("images/yxb.gif") no-repeat; }
+.Fun #xcb{ background:url("images/xcb.gif") no-repeat; }
+.Fun #wsb{ background:url("images/wsb.gif") no-repeat; }
+.Fun #xxb{ background:url("images/xxb.gif") no-repeat; }
+ */
+ 
+.Fun #rjb{ background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/b5da8ecb21f8febe0a791043873d027c_446366669438896199.gif") no-repeat; }
+.Fun #yxb{ background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/27e3e05510833b87ebc1d51b8ad9a0dd_2223268347470688128.gif") no-repeat; }
+.Fun #xcb{ background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/720b498c26346765feaf90545f0ee6b6_2226998222756276874.gif") no-repeat; }
+.Fun #wsb{ background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/e4a9fa980337ffff919041cf0b271acd_1300356644856069859.gif") no-repeat; }
+.Fun #xxb{ background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/a79f93995119dd42f85ec1ce71102e2b_4016001475586503635.gif") no-repeat; }
+
+
+/* �˲�� */
+/* .top_activity {width:1002px; height:200px; margin:0px auto; background:url("images/hdsj.jpg") no-repeat; } */
+.top_activity {width:1002px; height:200px; margin:0px auto; background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/19889723f2d1886d2b202eed88662f45_7838607976082183498.jpg") no-repeat; }
+.top_activity span{ display:none;}
+
+/* .activity_content { width:1002px; height:100%; margin:0 auto; background:url("images/abg.gif") repeat; overflow:auto;} */
+.activity_content { width:1002px; height:100%; margin:0 auto; background:url("https://upload-bbs.miyoushe.com/upload/2024/04/13/369690819/fd6f647ae4e0de2deff8fa60208fc13e_1000627139541669813.gif") repeat; overflow:auto;}
+.activity_content .left { width:200px; height:100%; overflow:hidden; float:left; display:inline;  background:#D1D1D1;}
+.activity_content .right { width:802px; height:100%; overflow:hidden; margin-left: 200px;}
+.activity_content .right .wrapper {padding: 20px;}
+
+.activity_content .right .title { width:400px; height:30px;  /* float:left; display:inline; */  font-size:18px; font-weight:900;}
+.activity_content .right .actcl { margin-top:10px;}
+.activity_content .right .actcl h1 {}
+.activity_content .right .actcl p { line-height:35px;}
+
+/* ͼƬ�Ŵ� */
+.amplify{
+	cursor: pointer;
+}

@@ -1,0 +1,34 @@
+{					
+	"menulist" : [
+		{
+			"title":"宣传片合集",
+			"jumpurl":"/activity/promotional-video",
+			"target":"",
+			"vueurl":true
+		},
+		{
+			"title":"18届换届大会",
+			"jumpurl":"https://mp.weixin.qq.com/s/gY2ZrjfSX4g48cFoPKvpKg",
+			"target":"_blank",
+			"vueurl":false
+		},
+		{
+			"title":"17届换届大会",
+			"jumpurl":"https://mp.weixin.qq.com/s/8UQvaZ1rDxFXSI8YKclAfQ",
+			"target":"_blank",
+			"vueurl":false
+		},
+		{
+			"title":"16届换届大会",
+			"jumpurl":"https://mp.weixin.qq.com/s/HSBmKkE54THuirO7s0gAzw",
+			"target":"_blank",
+			"vueurl":false
+		},
+		{
+			"title":"15届换届大会",
+			"jumpurl":"https://mp.weixin.qq.com/s/EpTjWRiY_8a681a-Cloq1Q",
+			"target":"_blank",
+			"vueurl":false
+		}
+	]
+}

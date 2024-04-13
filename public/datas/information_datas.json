@@ -1,0 +1,64 @@
+{					
+	"left":[
+		{
+			"title":"热点资讯",
+			"isshow":true,
+			"contents":[
+				
+			]
+		},
+		{
+			"title":"院线热映",
+			"ishsow":false,
+			"contents":[
+				
+			]
+		},
+		{
+			"title":"校园信息",
+			"ishsow":false,
+			"contents":[
+				
+			]
+		}
+	],
+	"center":[
+		{
+			"title":"活动通知",
+			"isshow":false,
+			"contents":[
+				
+			]
+		},
+		{
+			"title":"兼职信息",
+			"isshow":true,
+			"contents":[
+				
+			]
+		},
+		{
+			"title":"学院社团",
+			"isshow":false,
+			"contents":[
+				
+			]
+		}
+	],
+	"right":[
+		{
+			"title":"江职地图",
+			"isshow":false,
+			"contents":[
+				
+			]
+		},
+		{
+			"title":"江职车讯",
+			"isshow":false,
+			"contents":[
+				
+			]
+		}
+	]
+}
